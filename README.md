@@ -35,5 +35,10 @@ https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP
 Nomor porsi
 https://sites.google.com/macros/exec?service=AKfycbyfd-1n79k0TDYFbcI4XI28zDdiK8aeCcWzLtNH97jfr3xoPpg&nomor=100137466
 
+# Kemendag
+Harga kebutuhan pokok nasional
+https://sites.google.com/macros/exec?service=AKfycbxoZDvBSaC2QRdzvoRlFzr6EzDLoimdqewnpeMoGoMFAT2sD3cB&tahun=2016&bulan=4
+
+
 
 # Yang lain nanti nyusul disini
