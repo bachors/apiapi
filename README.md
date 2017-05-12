@@ -39,6 +39,10 @@ https://sites.google.com/macros/exec?service=AKfycbyfd-1n79k0TDYFbcI4XI28zDdiK8a
 Harga kebutuhan pokok nasional
 https://sites.google.com/macros/exec?service=AKfycbxoZDvBSaC2QRdzvoRlFzr6EzDLoimdqewnpeMoGoMFAT2sD3cB&tahun=2016&bulan=4
 
+# Produk-Halal-MUI
+Menu: <code>nama_produk</code>, <code>nama_produsen</code> atau <code>nomor_sertifikat</code> <br>
+https://sites.google.com/macros/exec?service=AKfycbx_-gZbLP7Z2gGxehXhWMWDAAQsTp3e3bmpTBiaLuzSDQSbIFWD&menu=nama_produk&query=abc
+
 
 
 # Yang lain nanti nyusul disini
