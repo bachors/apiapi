@@ -43,6 +43,8 @@ https://sites.google.com/macros/exec?service=AKfycbxoZDvBSaC2QRdzvoRlFzr6EzDLoim
 Menu: <code>nama_produk</code>, <code>nama_produsen</code> atau <code>nomor_sertifikat</code> <br>
 https://sites.google.com/macros/exec?service=AKfycbx_-gZbLP7Z2gGxehXhWMWDAAQsTp3e3bmpTBiaLuzSDQSbIFWD&menu=nama_produk&query=abc
 
-
+# Tanggal-Lahiran-Pasaran-Zodiak
+nama=<code>string</code>&tanggal=<code>tgl-bln-thn</code><br>
+https://script.google.com/macros/exec?service=AKfycbw7gKzP-WYV2F5mc9RaR7yE3Ve1yN91Tjs91hp_jHSE02dSv9w&nama=ican&tanggal=10-08-1990
 
 # Yang lain nanti nyusul disini
