@@ -47,4 +47,11 @@ https://sites.google.com/macros/exec?service=AKfycbx_-gZbLP7Z2gGxehXhWMWDAAQsTp3
 nama=<code>string</code>&tanggal=<code>tgl-bln-thn</code><br>
 https://script.google.com/macros/exec?service=AKfycbw7gKzP-WYV2F5mc9RaR7yE3Ve1yN91Tjs91hp_jHSE02dSv9w&nama=ican&tanggal=10-08-1990
 
+# Lirik-Lagu-Bule
+Cari
+https://sites.google.com/macros/exec?service=AKfycbzeSkwJ2sSzlMAQXy9hU_IrYTIKKVFPG8nighAUOFGHTIdJ-bU&judul=royals+lorde
+
+Lirik
+https://sites.google.com/macros/exec?service=AKfycbzeSkwJ2sSzlMAQXy9hU_IrYTIKKVFPG8nighAUOFGHTIdJ-bU&lirik=NRXXEZDFFVZG66LBNRZQ
+
 # Yang lain nanti nyusul disini
