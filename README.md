@@ -18,9 +18,6 @@ https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP
 Stok darah
 https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP5rRim-SjFwcLSO9UDiBk&gol=a_pos&produk=AHF&provinsi=Jawa+Barat
 
-Detail stok
-https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP5rRim-SjFwcLSO9UDiBk&id=3273
-
 Jadwal donor
 https://sites.google.com/macros/exec?service=AKfycbxENZUqbOHUz7c7CevxlMJMkjxRMtP5rRim-SjFwcLSO9UDiBk&tanggal=05/16/2017&provinsi=Jawa+Barat
 
