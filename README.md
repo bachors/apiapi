@@ -41,4 +41,11 @@ https://script.google.com/macros/exec?service=AKfycbw7gKzP-WYV2F5mc9RaR7yE3Ve1yN
 no=<code>6287xxxxxxx</code><br>
 https://sites.google.com/macros/exec?service=AKfycbxcCAYkY381d7e_BpA6mguSsrKHoM8Qu2HPS8m8ojOgFwodUCc&no=089875647437
 
+# Al Quran
+List Surat
+https://al-quran-8d642.firebaseio.com/data.json?print=pretty
+
+List Ayat
+https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
+
 # Yang lain nanti nyusul disini
