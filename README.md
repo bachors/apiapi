@@ -28,4 +28,9 @@ Firebase: https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
 
 Npoint: https://api.npoint.io/99c279bb173a6e28359c/surat/1
 
+
+# Kamus Besar Bahasa Indonesia
+https://github.com/bachors/KBBI.sql
+
+
 # Yang lain nanti nyusul disini
