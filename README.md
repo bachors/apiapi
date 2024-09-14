@@ -193,4 +193,33 @@ https://script.google.com/macros/s/AKfycbwx_d7KPLH1x2AjCf8yfAAvOCueZZxteegaormYL
 
 
 
+# Lirik Lagu
+Judul
+https://script.google.com/macros/s/AKfycbwFOEAjPXUY8XwDE6rPBFJVFq56_FNcXD5SnM7ZXfddN8Sbqb84lhreMsQ-nY4QNxzOIQ/exec?judul=rungkad
+<pre>
+{
+    "status": "success",
+    "data": [{
+            "judul": "Rungkad (Japanese Ver. Cover) by Forysca & Saskia",
+            "lirik": "F5DG64TZONRWCLLBNZSC243BONVWSYJNOJ2W4Z3LMFSC22TBOBQW4ZLTMUWXMZLSFVRW65TFOIWWY6LSNFRXG"
+        }, {
+            "judul": "Rungkad by Vicky Prasetyo",
+            "lirik": "F5LGSY3LPEWXA4TBONSXI6LPFVZHK3THNNQWILLMPFZGSY3T"
+        }, {
+            "judul": "Sway by Bic Runga",
+            "lirik": "F5BGSYZNOJ2W4Z3BFVZXOYLZFVWHS4TJMNZQ"
+        }
+    ]
+}
+</pre>
+Lirik
+https://script.google.com/macros/s/AKfycbwFOEAjPXUY8XwDE6rPBFJVFq56_FNcXD5SnM7ZXfddN8Sbqb84lhreMsQ-nY4QNxzOIQ/exec?lirik=F5LGSY3LPEWXA4TBONSXI6LPFVZHK3THNNQWILLMPFZGSY3T
+<pre>
+{
+    "status": "success",
+    "data": "[Lirik &quot;Rungkad&quot;]\n\n[Intro]\nRungkad entek entekan\nKelangan kowe sing paling tak sayang\nBondoku melayang tego tenan\nTangis tangisan\nRungkad entek entekan\nTresno tulusku mung dinggo dolanan\nStop mencintaimu\nGawe aku ngelu\n\n[Verse]\nMungkin\nAku terlalu cinta\nAku terlalu sayang nganti ra kroso dilarani\nPancen\nKu akui ku salah\nTerlalu percaya mergo mung nyawang rupo\n\n[Pre-Chorus]\nSaiki aku wes sadar\nTerlalu goblok mencintaimu\n\n[Chorus]\nRungkad entek entekan\nKelangan kowe sing paling tak sayang\nBondoku melayang tego tenan\nTangis tangisan\nRungkad entek entekan\nTresno tulusku mung dinggo dolanan\nStop mencintaimu\nGawe aku ngelu"
+}
+</pre>
+
+
 # Yang lain nanti nyusul disini
