@@ -225,4 +225,18 @@ https://script.google.com/macros/s/AKfycbwFOEAjPXUY8XwDE6rPBFJVFq56_FNcXD5SnM7ZX
 </pre>
 
 
+# UNDANG-UNDANG & PANCASILA
+PANCASILA https://api.npoint.io/68bdeeeaf95739432e74
+
+UUD 1945 https://api.npoint.io/bb286bbb0d5d782f8466
+
+KUHP https://api.npoint.io/c30ddb1bfd31aa78adc1
+
+KUHPERDATA https://api.npoint.io/e0e154ddb62f296577f6
+
+KUHD https://api.npoint.io/039466ea448182467b5c
+
+KUHAP https://api.npoint.io/9974d514b2503c99a089
+
+
 # Yang lain nanti nyusul disini
