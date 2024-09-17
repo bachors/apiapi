@@ -75,7 +75,10 @@ https://script.google.com/macros/s/AKfycbwwGKJ6JU7xyfpl_fwQpjsOjzoHZAUzTyOsnXJnb
 
 
 # Al Quran
-List Surat
+Sekarang tersedia data versi offlinenya ditambah perbaikan di bagian link audio, dimana di versi onlinenya link audio belum diperbaiki.
+Data Offline https://github.com/bachors/Al-Quran-ID-API/blob/master/offline/data.json
+
+List Surat Online
 
 Firebase: https://al-quran-8d642.firebaseio.com/data.json?print=pretty
 
@@ -99,7 +102,7 @@ Npoint: https://api.npoint.io/99c279bb173a6e28359c/data
 </pre>
 
 
-List Ayat
+List Ayat Online
 
 Firebase: https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
 
