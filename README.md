@@ -239,4 +239,43 @@ KUHD https://api.npoint.io/039466ea448182467b5c
 KUHAP https://api.npoint.io/9974d514b2503c99a089
 
 
+# NAMA BAYI
+Nama dari berbagai jenis culture sebayak 50939 data.
+
+https://github.com/bachors/nama-bayi-json
+
+Format data :
+
+ - Nama
+ - Kelamin
+ - Asal
+ - Arti
+
+<pre>
+[
+    {
+        "arti": "Mulia",
+        "asal": "Hawai",
+        "kelamin": "Laki-laki",
+        "nama": "A`alona"
+    },
+    ...
+    {
+        "nama": "Aakifah",
+        "kelamin": "Perempuan",
+        "asal": "Islamic",
+        "arti": "Yang menekuni sesuatu"
+    }
+    ...
+    {
+        "arti": "Pedang perang",
+        "asal": "Indonesia",
+        "kelamin": "Laki-laki",
+        "nama": "Kalumata"
+    }
+    ...
+]
+</pre>
+
+
 # Yang lain nanti nyusul disini
